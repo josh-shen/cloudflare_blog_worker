@@ -1,0 +1,11 @@
+name = "my-worker"
+type = "javascript"
+
+account_id = ""
+workers_dev = true
+route = ""
+zone_id = ""
+compatibility_date = "2021-12-20"
+kv_namespaces = [ 
+    { binding = "POST_DATA", id = "" }
+]
